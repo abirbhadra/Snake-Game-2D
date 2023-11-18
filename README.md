@@ -5,8 +5,8 @@
 This game has Single Player Mode and Co-op Player Mode.
 The Single Player Mode aims to achieve maximum score & the Co-op Player Mode aims to achieve the kill and win.
 There are 2 types of food - 1. To Grow and gain score
-                            2. To Decrease Snake size and lose score
+                            2. To Decrease Snake size and lose score.
 There are 2 types of power-ups - 1. 2X speed
-                                 2. Shield
+                                 2. Shield.
 - **Version**: Unity 2019.4 (LTS)
 
