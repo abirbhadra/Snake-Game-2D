@@ -10,3 +10,4 @@ There are 2 types of power-ups - 1. 2X speed
                                  2. Shield.
 - **Version**: Unity 2019.4 (LTS)
 
+Playable Link to the Game - https://abirbhadra.itch.io/snake-game-2d
